@@ -1,0 +1,14 @@
+{
+  "name": "npm-exercises",
+  "version": "1.0.0",
+  "description": "npm exercises folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
