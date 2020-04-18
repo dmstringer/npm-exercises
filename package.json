@@ -9,6 +9,9 @@
   "author": "Scott",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "axios": "^0.19.2",
+    "download-file": "^0.1.5",
+    "lodash": "^4.17.15",
+    "wallpaper": "^4.4.1"
   }
 }
